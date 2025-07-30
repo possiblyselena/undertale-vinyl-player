@@ -12,3 +12,6 @@ So this design session was spent researching parts and seeing how it would all l
 **Total Time Spent: 2 hours**
 
 # July 31st: CAD and Firmware
+
+<img width="1198" height="670" alt="image" src="https://github.com/user-attachments/assets/910481c9-19c6-4273-9b86-d404d3e9d7eb" />
+Top Case
