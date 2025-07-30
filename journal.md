@@ -1,5 +1,11 @@
+---
+title: "Undertale Record Player"
+author: "Selena"
+description: "An artifical record player that plays undertale music!"
+created_at: "2025-07-29"
+---
+
+# July 30th: Schematic and BOM
 <img width="917" height="539" alt="image" src="https://github.com/user-attachments/assets/334af999-117c-48cd-8548-1e9aed1a6e3a" />
-
-
-
-https://www.aliexpress.com/item/1005004051968844.html?src=google&pdp_npi=4%40dis!CAD!0.79!0.72!!!!!%40!12000027869658345!ppc!!!&src=google&albch=shopping&acnt=631-313-3945&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005004051968844&ds_e_product_merchant_id=107689848&ds_e_product_country=CA&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=19366866438&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=17337458112&gbraid=0AAAAACbpRIkG3uVYQ1Cl37GQEETCuTaHY&gclid=Cj0KCQjw4qHEBhCDARIsALYKFNPbX5N-K0m6EgdyNEDK0xZNLJZ7AJ_2I95mn0rO2oyy2Uleb1pf3t8aAh-1EALw_wcB
+<img width="1435" height="627" alt="image" src="https://github.com/user-attachments/assets/be8b0cb0-5c9e-4c6e-9f5e-66ea34d3b9b7" />
+So this design session was spent researching parts and seeing how it would all line up together. I made my schematic in kicad because it would easiest to see it. However, I was on planning on making a pcb for this project, but unfortunatly I think this project is too big because a lot of the components are quite tall and would poke out from the case. So, I'm going to wire them all with a breadboard and hot glue them to the bottom of my case. I might still arrange them in the PCB editor to see how big I need to make the case and what shapes I need to make. 
