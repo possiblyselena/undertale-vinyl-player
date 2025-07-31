@@ -4,7 +4,7 @@ author: "Selena"
 description: "An artifical record player that plays undertale music!"
 created_at: "2025-07-29"
 ---
-
+# Total Time spent: 10 hours
 # July 29th: Schematic and BOM
 <img width="917" height="539" alt="image" src="https://github.com/user-attachments/assets/334af999-117c-48cd-8548-1e9aed1a6e3a" />
 <img width="1435" height="627" alt="image" src="https://github.com/user-attachments/assets/be8b0cb0-5c9e-4c6e-9f5e-66ea34d3b9b7" />
@@ -38,3 +38,10 @@ I used onshape to design the case with all the other things I needed. I really n
 **Total time spent 6 hours**
 
 # July 31st: Firmware
+
+guys this was hard. I used daniels program as reference, and since I had to add the stepper motor and oled I need to do more research on how to do it in python. I've worked with both in arduino, but I'm trying to be well-rounded i guess. So I looked for libraries and tutorials to figure out how to put them together. I have stop and start buttons as well, but I decided to leave them outside of the code until I get everything else working. 
+<img width="1692" height="695" alt="image" src="https://github.com/user-attachments/assets/8e87c809-9ce7-43f1-bba7-bc798610d7a1" />
+
+**Total time spent 2 hours**
+
+
