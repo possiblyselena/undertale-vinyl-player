@@ -1,7 +1,14 @@
+# Undertale Vinyl Player!
+Bro why are vinyls so expensive. 40$ each + you need to buy a record player to actually listen to them. ~~I still have a record player, and a collection of vinyls.~~ So I made my own fake record player that only plays undertale songs because they're so underrated. 
 
+This project was heavily inspired by the minecraft jukebox and I used the guide as reference! I used NFC tags on the 3D printed vinyl players to reach which song, and the stepper motor would spin and play the music! I also added switches to pause and play the music.
+# CAD
+<img width="718" height="733" alt="image" src="https://github.com/user-attachments/assets/aaf415b9-d994-4097-bb0c-0ef30b96262a" />
 
+# Schematic
+<img width="1260" height="550" alt="image" src="https://github.com/user-attachments/assets/47a5adfc-43ef-4779-a8d8-5a9a080a9d54" />
 
-
+# BOM
 | Item Name             | Price (USD) | Quantity | Total (USD) | Purchase Link | 
 |-----------------------|-------------|----------|-------------|----------------|
 | Raspberry Pi Zero 2 W | 14.55$ | 1 | 14.55$ | [ALiexpress](https://www.aliexpress.com/item/1005007982832720.html?spm=a2g0o.productlist.main.16.55724c079WlZoa&algo_pvid=5ed62892-e033-498f-9126-facb6bcf65ad&algo_exp_id=5ed62892-e033-498f-9126-facb6bcf65ad-15&pdp_ext_f=%7B%22order%22%3A%22390%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%2121.18%2121.18%21%21%2115.04%2115.04%21%402103010b17538576659928439e125c%2112000043146501588%21sea%21CA%214611088294%21X&curPageLogUid=qPmRlGfOB81T&utparam-url=scene%3Asearch%7Cquery_from%3A) |
